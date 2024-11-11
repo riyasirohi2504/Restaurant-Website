@@ -830,4 +830,4 @@ body {
   .showcase-area {
     height: 50vmax;
   }
-}                                                                                                                                                                   Take this codes and provide me answers of my questions
+}                                                                                                                                                                   
